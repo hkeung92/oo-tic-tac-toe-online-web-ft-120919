@@ -89,7 +89,9 @@ class  TicTacToe
     won? || full? ? true : false
   end
   
-  
+  def winner
+    
+  end
   
   
   
